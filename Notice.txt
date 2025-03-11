@@ -1,0 +1,6 @@
+2/27 file
+Pima_Latest_RF_NoFeatureScale_v1.2
+Pima_Latest_noSMOTE_BESTnow
+NHANES_Latest_NoPolynomial(Fill Mean)+CATBoost
+========================================================
+dont run other files (just keep the result)
